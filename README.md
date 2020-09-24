@@ -41,9 +41,9 @@ git push origin master
         ------------ | ------------
         Add your hello world code into this folder | Add your declared variable code to this folder
         
-        <a href="https://github.com/oshada97">
-        <img src="octacat.jpg">
-        </a>
+        <a href="https://github.com/oshada97"></a>
+        ![octacat](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
+        
      ##   Hurry Up   
 
 
