@@ -6,7 +6,8 @@
 ## 1. goto this site very first and do (https://hacktoberfest.digitalocean.com/profile)
 
 <br>
-##  :octocat:Support open source
+
+## 2. :octocat:Support open source
 
 ###  :octocat:Follow this EASY  **guide**:baby::heart_eyes:
 :point_down:
@@ -41,7 +42,7 @@ git push origin master
         ------------ | ------------
         Add your hello world code into this folder | Add your declared variable code to this folder
         
-        <a href="https://github.com/oshada97"></a>
+       
         ![octacat](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
         
      ##   Hurry Up   
