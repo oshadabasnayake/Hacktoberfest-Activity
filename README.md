@@ -45,6 +45,5 @@ git push origin master
        
         ![octacat](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
         
-     ##   Hurry Up   
-
+     ##  Hurry Up 
 
