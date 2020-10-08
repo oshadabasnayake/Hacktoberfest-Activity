@@ -12,7 +12,7 @@
 ###  :octocat:Follow this EASY  **guide**:baby::heart_eyes:
 :point_down:
 
-1. **Fork this repository.**:point_right: ![Tourism Site](https://github.com/oshada97/Tourism-Site)
+1. **Fork this repository.**:point_right: ![Tourism Site](https://github.com/oshada97/Tourism-Site-for-Hacktoberfest)
 2. **Clone forked repository.** 
 
       **enter this code** :point_right:```git clone "repository link"  ```
