@@ -1,3 +1,4 @@
+# open-hack-day-2020
 # Hacktoberfest-Activity
 ##<!-- කොල්ලන්ට කෙල්ලන්ට Hacktoberfest ටී ෂර්ට්-->
 ## 👉Hacktoberfest 2020 open source activity. Happy Open Source❤️😍:octocat:😍❤️
@@ -21,7 +22,7 @@
 4. **Edit Profiles Folder.**
 5. **Enter Terminal Commands.**
  ```
-git add -A
+git add .
 git commit -m "your name"
 git push origin master
 ```
@@ -45,5 +46,6 @@ git push origin master
        
         ![octacat](https://user-images.githubusercontent.com/34527100/94196273-bebe8b80-fed1-11ea-9b26-7672c725a6fd.jpg)
         
-     ##  Hurry Up 
+     ##  Hurry Up
+     ## This event will be end of this month.
 
